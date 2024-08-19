@@ -2,21 +2,21 @@
 
 #### Important Dates
 * Project Start
-  * **Week 10, Tuesday Oct 31, 2023**
+  * **Week 10, Tuesday Oct 29, 2024**
 * Project Proposal Due (Upload to Canvas)
-  * **Week 11, Tuesday Nov 7, 2023 (23:59)**
+  * **Week 11, Tuesday Nov 5, 2024 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
-  * **Week 13, Tuesday Nov 21, 2023 (23:59)**
+  * **Week 14, Tuesday Nov 26, 2024 (23:59)**
   * *About 5 pages*
 * Final Project Report Due
-  * **Week 15 Monday Dec 4, 2023 (23:59)**
+  * **Week 16 Monday Dec 9, 2024 (23:59)**
   * *About 10 pages*
   * *Code and trained model*
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
 * Presentation Session (In person)
-  * **Week 15 Tuesday Dec 5, 2023**
+  * **Week 16 Tuesday Dec 10, 2024**
 
 #### Total Points
 * 100 (One Hundred)
