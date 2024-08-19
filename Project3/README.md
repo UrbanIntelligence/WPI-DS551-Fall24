@@ -42,7 +42,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 * Create virtual environment and install Python 3: conda create -n myenv python=3.11.4. This will help you create a new conda environment named myenv. Gymnasium library supports for Python 3.8, 3.9, 3.10, 3.11 on Linux and macOS.
 * Activate your virtual environment: `conda activate myenv`
 * Install gymnasium: `pip install opencv-python-headless gymnasium[atari] autorom[accept-rom-license]` (See [install gymnasium](https://github.com/Farama-Foundation/Gymnasium))
-* install pytorch: See [install pytorch](https://pytorch.org/get-started/locally/), pip3 install torch torchvision torchaudio
+* install pytorch: See [install pytorch](https://pytorch.org/get-started/locally/), pip install torch torchvision torchaudio
 * For the  Atari wrapper, install the following two items: `pip install -U "ray[rllib]" ipywidgets`
 * For video recording in testing, install the following three items: `conda install -c conda-forge moviepy`, `conda install -c conda-forge ffmpeg`, `conda update ffmpeg`
 * When testing, for nice output on the terminal, you need to install tqdm: `conda install -c conda-forge tqdm`
