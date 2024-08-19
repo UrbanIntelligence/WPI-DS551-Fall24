@@ -7,10 +7,10 @@ You work on the following files, including agent_dqn.py and dqn_model.py.
 You can optionally update argument.py to add your own arguments (if needed).
 
 #### Starating Date
-* Week 7, Tuesday Oct 10, 2023 (23:59)
+* Week 7, Tuesday Oct 8, 2024 (23:59)
 
 #### Due Date
-* Week 10, Tuesday Oct 31, 2023 (23:59))
+* Week 10, Tuesday Oct 29, 2024 (23:59))
 
 #### Total Points
 * 100 (One Hundred)
