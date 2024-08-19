@@ -50,7 +50,7 @@ Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.z
 ## Setup
 * Recommended programming IDE (integrated development environment): VS code (See [install VS code](https://code.visualstudio.com/)) 
 * Install [Miniconda](https://www.python.org/downloads/)
-* Install [Python 3](https://www.python.org/downloads/), by default, it's Python 3.11.4 now (Aug 20, 2023).
+* Install [Python 3](https://www.python.org/downloads/): conda install python=3.11.4 (Aug 20, 2023). Gymnasium library supports for Python 3.8, 3.9, 3.10, 3.11 on Linux and macOS.
 * Create virtual environment: conda create -n myenv python
 * Activate your virtual environment: conda activate myenv
 * Install gymnasium: pip install "gymnasium[atari]" (See [install gymnasium](https://github.com/Farama-Foundation/Gymnasium))
