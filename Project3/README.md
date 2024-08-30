@@ -44,8 +44,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 * Install gymnasium: `pip install opencv-python-headless gymnasium[atari] autorom[accept-rom-license]` (See [install gymnasium](https://github.com/Farama-Foundation/Gymnasium))
 * install pytorch: See [install pytorch](https://pytorch.org/get-started/locally/), pip install torch torchvision torchaudio
 * For the  Atari wrapper, install the following two items: `pip install -U "ray[rllib]" ipywidgets`
-* For sucessfully running code, you may also need to install the following item: `pip install --upgrade scipy numpy`.
-* For video recording in testing, install the following three items: `conda install -c conda-forge moviepy`, `conda install -c conda-forge ffmpeg`, `conda update ffmpeg`
+* For successfully running code, you may also need to install the following item: `pip install --upgrade scipy numpy`.
+* For video recording in testing, install the following three items: `pip install moviepy`, `pip install ffmpeg`.
 * When testing, for nice output on the terminal, you need to install tqdm: `conda install -c conda-forge tqdm`
 
 ## How to run :
