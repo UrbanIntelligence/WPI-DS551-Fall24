@@ -46,7 +46,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 * For the  Atari wrapper, install the following two items: `pip install -U "ray[rllib]" ipywidgets`
 * For successfully running code, you may also need to install the following item: `pip install --upgrade scipy numpy`.
 * For video recording in testing, install the following three items: `pip install moviepy`, `pip install ffmpeg`.
-* When testing, for nice output on the terminal, you need to install tqdm: `pip install -c conda-forge tqdm`
+* When testing, for nice output on the terminal, you need to install tqdm: `pip install tqdm`
 
 ## How to run :
 training DQN:
