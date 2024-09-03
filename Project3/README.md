@@ -1,4 +1,4 @@
-# DS551/CS525 Inidividual Project 3
+# DS551/CS551/CS525 Inidividual Project 3
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py, atari_wrapper.py, main.py, and agent.py
 
