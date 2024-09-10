@@ -176,5 +176,20 @@ Please compress all the below files into a zipped file and submit the zip file (
   | 12  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
   | 13  | 11/5/2022  | Ryan Killea | 67.12 | ... |
   | 14  | 11/14/2022  | Rushabh Kheni | 65.51 | Vanilla DQN with Deepmind architecture |  
-  | 15  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |  
+  | 15  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture | 
+
+## Leaderboard for Fall 2023**
+  | Top | Date | Name | Score | Model |
+  | :---: | :---:| :---: | :---: | :---: |
+  | 1  | 11/7/2023 | Antony Garcia | 426 | DQN |
+  | 2  | 11/15/2023 | Anas AlRifai | 402.72 | DDQN |
+  | 3  | 11/14/2023 | Maanav Iyengar | 384.32 | ... |
+  | 4  | 11/1/2023 | Daniel Moyer | 377.5 | ... |
+  | 5  | 11/19/2023 | Xinyi Fang | 367.27 |  Dueling Double Deep Q-Network |
+  | 6  | 11/15/2023 | Martha Cash | 363.57 | DQN |
+  | 7  | 11/18/2023 | Zhuang Luo | 329.4 | DQN |
+  | 8  | 11/14/2023 | Yiming Liu | 315.81 | DQN |
+  | 9  | 11/14/2023 | Aikeremu Aixilafu | 193.8 | ... |
+  | 10 | 11/15/2023 | Michael O'Connor | 158.68 | ... |
+  
   
