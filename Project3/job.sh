@@ -9,5 +9,5 @@
 #SBATCH --mem 12G
 #SBATCH --job-name="P3"
 
-source activate pt
+source activate myenv
 python main.py --train_dqn
