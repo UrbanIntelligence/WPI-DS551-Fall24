@@ -10,7 +10,8 @@ You can optionally update argument.py to add your own arguments (if needed).
 * Week 7, Tuesday Oct 8, 2024 (23:59)
 
 #### Due Date
-* Week 10, Tuesday Oct 29, 2024 (23:59))
+* Updated to Week 12, Tuesday Nov 12, 2024 (23:59))
+* (It was Week 10, Tuesday Oct 29, 2024 (23:59)))
 
 #### Total Points
 * 100 (One Hundred)
