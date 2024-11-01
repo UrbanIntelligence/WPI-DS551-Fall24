@@ -27,8 +27,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
-  | 1  | ... | ... | ... | ... |
-  | 2  | ... | ... | ... | ... |
+  | 1  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
+  | 2  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
   | 3  | ... | ... | ... | ... |
 
 
