@@ -30,8 +30,9 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | 1  | 11/03/2024 | Zhiyang Zhang | 493.09 | ... |
   | 2  | 11/02/2024 | Badrivishal Ajeet Paurana | 382.96 | ... |
   | 3  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
-  | 4  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
-  | 5  | ... | ... | ... | ... |
+  | 4  | 11/03/2024 | Sumukh Porwa | 309.54 | ... |
+  | 5  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
+  | 6  | ... | ... | ... | ... |
 
 
 * How to elvaluate
