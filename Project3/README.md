@@ -32,7 +32,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | 3  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
   | 4  | 11/03/2024 | Sumukh Porwa | 309.54 | ... |
   | 5  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
-  | 6  | ... | ... | ... | ... |
+  | 6  | 11/08/2024 | Srikanth Natarajan | 281.62 | ... |
 
 
 * How to elvaluate
