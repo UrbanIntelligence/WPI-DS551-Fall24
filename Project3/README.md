@@ -31,7 +31,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | 2  | 11/02/2024 | Badrivishal Ajeet Paurana | 382.96 | ... |
   | 3  | 11/12/2024 | Maya Flores | 371.58 | Standard DQN |
   | 4  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
-  | 5  | 11/11/2024 | Alessandra Savio Serpes | 320.57 | ... |
+  | 5  | 11/11/2024 | Alessandra Savio Serpes | 320.57 | Standard DQN  |
   | 6  | 11/03/2024 | Sumukh Porwa | 309.54 | Double DQN |
   | 7  | 11/11/2024 | Qiaochu Liu | 309.16 | Dueling DQN |
   | 8  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
