@@ -27,7 +27,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
-  | 1  | 11/03/2024 | Zhiyang Zhang | 493.09 | ... |
+  | 1  | 11/03/2024 | Zhiyang Zhang | 493.09 | dueling DQN |
   | 2  | 11/02/2024 | Badrivishal Ajeet Paurana | 382.96 | Double DQN with Prioritized Experience Replay |
   | 3  | 11/12/2024 | Maya Flores | 371.58 | Standard DQN |
   | 4  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
