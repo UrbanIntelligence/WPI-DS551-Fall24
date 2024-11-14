@@ -34,8 +34,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | 5  | 11/11/2024 | Alessandra Savio Serpes | 320.57 | Standard DQN  |
   | 6  | 11/03/2024 | Sumukh Porwa | 309.54 | Double DQN |
   | 7  | 11/12/2024 | Qiaochu Liu | 309.16 | Dueling DQN |
-  | 7  | 11/12/2024 | Jake Watson | 300.22 | Vanilla DQN |
-  | 8  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
+  | 8  | 11/12/2024 | Jake Watson | 300.22 | Vanilla DQN |
   | 9  | 11/08/2024 | Srikanth Natarajan | 281.62 | ... |
 
 
