@@ -29,11 +29,12 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | :---: | :---:| :---: | :---: | :---: |
   | 1  | 11/03/2024 | Zhiyang Zhang | 493.09 | ... |
   | 2  | 11/02/2024 | Badrivishal Ajeet Paurana | 382.96 | ... |
-  | 3  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
-  | 4  | 11/11/2024 | Alessandra Savio Serpes | 320.57 | ... |
-  | 5  | 11/03/2024 | Sumukh Porwa | 309.54 | ... |
-  | 6  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
-  | 7  | 11/08/2024 | Srikanth Natarajan | 281.62 | ... |
+  | 3  | 11/12/2024 | Maya Flores | 371.58 | Standard DQN |
+  | 4  | 10/26/2024 | Ningcong Chen | 334.48 | ... |
+  | 5  | 11/11/2024 | Alessandra Savio Serpes | 320.57 | ... |
+  | 6  | 11/03/2024 | Sumukh Porwa | 309.54 | ... |
+  | 7  | 10/31/2024 | Badrivishal Ajeet Paurana | 283.62 | ... |
+  | 8  | 11/08/2024 | Srikanth Natarajan | 281.62 | ... |
 
 
 * How to elvaluate
